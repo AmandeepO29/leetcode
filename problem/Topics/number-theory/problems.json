@@ -4,7 +4,7 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-08-14T18:03:23.821Z",
+  "updatedAt": "2026-08-14T18:07:01.529Z",
   "problems": [
     {
       "frontendId": "1492",
@@ -22,7 +22,7 @@
           "filename": "1492-the-kth-factor-of-n.java",
           "path": "problem/1492-the-kth-factor-of-n/1492-the-kth-factor-of-n.java",
           "sha": "b02cf7882a02c3e4b99f4a34938872ac8b4f38ed",
-          "lastSyncedAt": "2026-08-14T18:03:23.821Z"
+          "lastSyncedAt": "2026-08-14T18:07:01.529Z"
         }
       ]
     }
