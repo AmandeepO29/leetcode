@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-14T18:02:36.407Z",
+  "updatedAt": "2026-08-14T18:03:03.082Z",
   "problems": [
     {
       "frontendId": "75",
@@ -43,6 +43,26 @@
           "path": "problem/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java",
           "sha": "772f8514ed70e05976a9b60a10643a9444453aa2",
           "lastSyncedAt": "2026-08-14T18:02:14.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3517",
+      "title": "Smallest Palindromic Rearrangement I",
+      "slug": "smallest-palindromic-rearrangement-i",
+      "problemName": "3517-smallest-palindromic-rearrangement-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-i/",
+      "folderPath": "problem/3517-smallest-palindromic-rearrangement-i/",
+      "readmePath": "problem/3517-smallest-palindromic-rearrangement-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3517-smallest-palindromic-rearrangement-i.java",
+          "path": "problem/3517-smallest-palindromic-rearrangement-i/3517-smallest-palindromic-rearrangement-i.java",
+          "sha": "6d4f2630afba3ca281eb4ae9035f3654f6380df9",
+          "lastSyncedAt": "2026-08-14T18:03:03.082Z"
         }
       ]
     }
