@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-14T18:03:03.082Z",
+  "updatedAt": "2026-08-14T18:03:34.804Z",
   "problems": [
+    {
+      "frontendId": "899",
+      "title": "Orderly Queue",
+      "slug": "orderly-queue",
+      "problemName": "0899-orderly-queue",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/orderly-queue/",
+      "folderPath": "problem/0899-orderly-queue/",
+      "readmePath": "problem/0899-orderly-queue/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0899-orderly-queue.java",
+          "path": "problem/0899-orderly-queue/0899-orderly-queue.java",
+          "sha": "4d58260b65d4f273b438c6affaefb10d129b5ace",
+          "lastSyncedAt": "2026-08-14T18:03:34.804Z"
+        }
+      ]
+    },
     {
       "frontendId": "3517",
       "title": "Smallest Palindromic Rearrangement I",
