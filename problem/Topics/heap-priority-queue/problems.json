@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-08-14T18:03:53.004Z",
+  "updatedAt": "2026-08-14T18:07:15.969Z",
   "problems": [
     {
       "frontendId": "1464",
@@ -22,7 +22,7 @@
           "filename": "1464-maximum-product-of-two-elements-in-an-array.java",
           "path": "problem/1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.java",
           "sha": "3b179dd95c7af0e09d1daf58f79f63ae6f04a61a",
-          "lastSyncedAt": "2026-08-14T18:03:53.004Z"
+          "lastSyncedAt": "2026-08-14T18:07:15.969Z"
         }
       ]
     }
