@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-14T18:02:51.186Z",
+  "updatedAt": "2026-08-14T18:04:23.348Z",
   "problems": [
     {
       "frontendId": "26",
@@ -43,6 +43,26 @@
           "path": "problem/0075-sort-colors/0075-sort-colors.java",
           "sha": "85a791118229785b5e53502f3642e2a24b1f2b57",
           "lastSyncedAt": "2026-08-14T18:02:36.407Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "925",
+      "title": "Long Pressed Name",
+      "slug": "long-pressed-name",
+      "problemName": "0925-long-pressed-name",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/long-pressed-name/",
+      "folderPath": "problem/0925-long-pressed-name/",
+      "readmePath": "problem/0925-long-pressed-name/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0925-long-pressed-name.java",
+          "path": "problem/0925-long-pressed-name/0925-long-pressed-name.java",
+          "sha": "e036521a1e85a7e399d818a67faa01f24761bb4f",
+          "lastSyncedAt": "2026-08-14T18:04:23.348Z"
         }
       ]
     }
