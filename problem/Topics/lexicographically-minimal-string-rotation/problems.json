@@ -4,7 +4,7 @@
     "slug": "lexicographically-minimal-string-rotation",
     "name": "Lexicographically Minimal String Rotation"
   },
-  "updatedAt": "2026-08-14T18:03:34.804Z",
+  "updatedAt": "2026-08-14T18:07:06.955Z",
   "problems": [
     {
       "frontendId": "899",
@@ -22,7 +22,7 @@
           "filename": "0899-orderly-queue.java",
           "path": "problem/0899-orderly-queue/0899-orderly-queue.java",
           "sha": "4d58260b65d4f273b438c6affaefb10d129b5ace",
-          "lastSyncedAt": "2026-08-14T18:03:34.804Z"
+          "lastSyncedAt": "2026-08-14T18:07:06.955Z"
         }
       ]
     }
