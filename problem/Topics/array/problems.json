@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-14T18:07:15.969Z",
+  "updatedAt": "2026-08-14T18:07:21.151Z",
   "problems": [
     {
       "frontendId": "26",
@@ -182,7 +182,7 @@
           "filename": "1773-count-items-matching-a-rule.java",
           "path": "problem/1773-count-items-matching-a-rule/1773-count-items-matching-a-rule.java",
           "sha": "00cd400736d0a6f547b05c4ba4f2eecdbc2b13bb",
-          "lastSyncedAt": "2026-08-14T18:04:02.220Z"
+          "lastSyncedAt": "2026-08-14T18:07:21.151Z"
         }
       ]
     },
