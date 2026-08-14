@@ -4,7 +4,7 @@
     "slug": "quicksort",
     "name": "Quicksort"
   },
-  "updatedAt": "2026-08-14T18:02:36.407Z",
+  "updatedAt": "2026-08-14T18:04:29.869Z",
   "problems": [
     {
       "frontendId": "75",
@@ -23,6 +23,26 @@
           "path": "problem/0075-sort-colors/0075-sort-colors.java",
           "sha": "85a791118229785b5e53502f3642e2a24b1f2b57",
           "lastSyncedAt": "2026-08-14T18:02:36.407Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "problemName": "0455-assign-cookies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+      "folderPath": "problem/0455-assign-cookies/",
+      "readmePath": "problem/0455-assign-cookies/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0455-assign-cookies.java",
+          "path": "problem/0455-assign-cookies/0455-assign-cookies.java",
+          "sha": "c3a9684d5a3a4d820c39f765cba5e82729638ba9",
+          "lastSyncedAt": "2026-08-14T18:04:29.869Z"
         }
       ]
     }
