@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-14T18:04:13.483Z",
+  "updatedAt": "2026-08-14T18:04:48.371Z",
   "problems": [
     {
       "frontendId": "628",
@@ -103,6 +103,26 @@
           "path": "problem/3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.java",
           "sha": "851dacbd16492fc31e30a4de7008aa4717e483db",
           "lastSyncedAt": "2026-08-14T18:02:27.088Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3536",
+      "title": "Maximum Product of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "problemName": "3536-maximum-product-of-two-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-digits/",
+      "folderPath": "problem/3536-maximum-product-of-two-digits/",
+      "readmePath": "problem/3536-maximum-product-of-two-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3536-maximum-product-of-two-digits.java",
+          "path": "problem/3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.java",
+          "sha": "7ce3ed571923c72c26cfdb877ea6cabc0e49c346",
+          "lastSyncedAt": "2026-08-14T18:04:48.371Z"
         }
       ]
     }
