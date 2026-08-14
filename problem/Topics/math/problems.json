@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-14T18:07:53.241Z",
+  "updatedAt": "2026-08-14T18:07:57.233Z",
   "problems": [
     {
       "frontendId": "628",
@@ -122,7 +122,7 @@
           "filename": "3513-number-of-unique-xor-triplets-i.java",
           "path": "problem/3513-number-of-unique-xor-triplets-i/3513-number-of-unique-xor-triplets-i.java",
           "sha": "38478d454a4ac9175984e16e024125c8c0c97cba",
-          "lastSyncedAt": "2026-08-14T18:04:54.433Z"
+          "lastSyncedAt": "2026-08-14T18:07:57.233Z"
         }
       ]
     },
