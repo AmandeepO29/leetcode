@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-14T18:04:09.183Z",
+  "updatedAt": "2026-08-14T18:04:23.348Z",
   "problems": [
     {
       "frontendId": "58",
@@ -43,6 +43,26 @@
           "path": "problem/0899-orderly-queue/0899-orderly-queue.java",
           "sha": "4d58260b65d4f273b438c6affaefb10d129b5ace",
           "lastSyncedAt": "2026-08-14T18:03:34.804Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "925",
+      "title": "Long Pressed Name",
+      "slug": "long-pressed-name",
+      "problemName": "0925-long-pressed-name",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/long-pressed-name/",
+      "folderPath": "problem/0925-long-pressed-name/",
+      "readmePath": "problem/0925-long-pressed-name/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0925-long-pressed-name.java",
+          "path": "problem/0925-long-pressed-name/0925-long-pressed-name.java",
+          "sha": "e036521a1e85a7e399d818a67faa01f24761bb4f",
+          "lastSyncedAt": "2026-08-14T18:04:23.348Z"
         }
       ]
     },
