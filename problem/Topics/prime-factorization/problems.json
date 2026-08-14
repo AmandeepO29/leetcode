@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prime-factorization",
+    "name": "Prime Factorization"
+  },
+  "updatedAt": "2026-08-14T18:03:23.821Z",
+  "problems": [
+    {
+      "frontendId": "1492",
+      "title": "The kth Factor of n",
+      "slug": "the-kth-factor-of-n",
+      "problemName": "1492-the-kth-factor-of-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/the-kth-factor-of-n/",
+      "folderPath": "problem/1492-the-kth-factor-of-n/",
+      "readmePath": "problem/1492-the-kth-factor-of-n/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1492-the-kth-factor-of-n.java",
+          "path": "problem/1492-the-kth-factor-of-n/1492-the-kth-factor-of-n.java",
+          "sha": "b02cf7882a02c3e4b99f4a34938872ac8b4f38ed",
+          "lastSyncedAt": "2026-08-14T18:03:23.821Z"
+        }
+      ]
+    }
+  ]
+}
