@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-08-14T18:03:03.082Z",
+  "problems": [
+    {
+      "frontendId": "3517",
+      "title": "Smallest Palindromic Rearrangement I",
+      "slug": "smallest-palindromic-rearrangement-i",
+      "problemName": "3517-smallest-palindromic-rearrangement-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-i/",
+      "folderPath": "problem/3517-smallest-palindromic-rearrangement-i/",
+      "readmePath": "problem/3517-smallest-palindromic-rearrangement-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3517-smallest-palindromic-rearrangement-i.java",
+          "path": "problem/3517-smallest-palindromic-rearrangement-i/3517-smallest-palindromic-rearrangement-i.java",
+          "sha": "6d4f2630afba3ca281eb4ae9035f3654f6380df9",
+          "lastSyncedAt": "2026-08-14T18:03:03.082Z"
+        }
+      ]
+    }
+  ]
+}
