@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-14T18:04:54.433Z",
+  "updatedAt": "2026-08-14T18:06:32.441Z",
   "problems": [
     {
       "frontendId": "628",
@@ -102,7 +102,7 @@
           "filename": "3345-smallest-divisible-digit-product-i.java",
           "path": "problem/3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.java",
           "sha": "851dacbd16492fc31e30a4de7008aa4717e483db",
-          "lastSyncedAt": "2026-08-14T18:02:27.088Z"
+          "lastSyncedAt": "2026-08-14T18:06:32.441Z"
         }
       ]
     },
