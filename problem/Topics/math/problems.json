@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-14T18:02:27.088Z",
+  "updatedAt": "2026-08-14T18:03:14.700Z",
   "problems": [
+    {
+      "frontendId": "1828",
+      "title": "Queries on Number of Points Inside a Circle",
+      "slug": "queries-on-number-of-points-inside-a-circle",
+      "problemName": "1828-queries-on-number-of-points-inside-a-circle",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/",
+      "folderPath": "problem/1828-queries-on-number-of-points-inside-a-circle/",
+      "readmePath": "problem/1828-queries-on-number-of-points-inside-a-circle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1828-queries-on-number-of-points-inside-a-circle.java",
+          "path": "problem/1828-queries-on-number-of-points-inside-a-circle/1828-queries-on-number-of-points-inside-a-circle.java",
+          "sha": "99e349abc9717b8b076f692d73698ec0c46fbfb7",
+          "lastSyncedAt": "2026-08-14T18:03:14.700Z"
+        }
+      ]
+    },
     {
       "frontendId": "3345",
       "title": "Smallest Divisible Digit Product I",
