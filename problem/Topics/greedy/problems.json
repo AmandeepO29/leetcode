@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy"
+  },
+  "updatedAt": "2026-08-14T18:04:29.869Z",
+  "problems": [
+    {
+      "frontendId": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "problemName": "0455-assign-cookies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+      "folderPath": "problem/0455-assign-cookies/",
+      "readmePath": "problem/0455-assign-cookies/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0455-assign-cookies.java",
+          "path": "problem/0455-assign-cookies/0455-assign-cookies.java",
+          "sha": "c3a9684d5a3a4d820c39f765cba5e82729638ba9",
+          "lastSyncedAt": "2026-08-14T18:04:29.869Z"
+        }
+      ]
+    }
+  ]
+}
