@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-14T18:04:42.438Z",
+  "updatedAt": "2026-08-14T18:04:54.433Z",
   "problems": [
     {
       "frontendId": "26",
@@ -203,6 +203,26 @@
           "path": "problem/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.java",
           "sha": "772f8514ed70e05976a9b60a10643a9444453aa2",
           "lastSyncedAt": "2026-08-14T18:02:14.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3513",
+      "title": "Number of Unique XOR Triplets I",
+      "slug": "number-of-unique-xor-triplets-i",
+      "problemName": "3513-number-of-unique-xor-triplets-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-i/",
+      "folderPath": "problem/3513-number-of-unique-xor-triplets-i/",
+      "readmePath": "problem/3513-number-of-unique-xor-triplets-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3513-number-of-unique-xor-triplets-i.java",
+          "path": "problem/3513-number-of-unique-xor-triplets-i/3513-number-of-unique-xor-triplets-i.java",
+          "sha": "38478d454a4ac9175984e16e024125c8c0c97cba",
+          "lastSyncedAt": "2026-08-14T18:04:54.433Z"
         }
       ]
     }
