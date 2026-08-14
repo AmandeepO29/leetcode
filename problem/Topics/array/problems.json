@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-14T18:06:48.018Z",
+  "updatedAt": "2026-08-14T18:06:56.615Z",
   "problems": [
     {
       "frontendId": "26",
@@ -202,7 +202,7 @@
           "filename": "1828-queries-on-number-of-points-inside-a-circle.java",
           "path": "problem/1828-queries-on-number-of-points-inside-a-circle/1828-queries-on-number-of-points-inside-a-circle.java",
           "sha": "99e349abc9717b8b076f692d73698ec0c46fbfb7",
-          "lastSyncedAt": "2026-08-14T18:03:14.700Z"
+          "lastSyncedAt": "2026-08-14T18:06:56.615Z"
         }
       ]
     },
