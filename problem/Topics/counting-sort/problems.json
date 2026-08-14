@@ -4,7 +4,7 @@
     "slug": "counting-sort",
     "name": "Counting Sort"
   },
-  "updatedAt": "2026-08-14T18:03:03.082Z",
+  "updatedAt": "2026-08-14T18:06:50.263Z",
   "problems": [
     {
       "frontendId": "3517",
@@ -22,7 +22,7 @@
           "filename": "3517-smallest-palindromic-rearrangement-i.java",
           "path": "problem/3517-smallest-palindromic-rearrangement-i/3517-smallest-palindromic-rearrangement-i.java",
           "sha": "6d4f2630afba3ca281eb4ae9035f3654f6380df9",
-          "lastSyncedAt": "2026-08-14T18:03:03.082Z"
+          "lastSyncedAt": "2026-08-14T18:06:50.263Z"
         }
       ]
     }
