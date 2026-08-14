@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-14T18:02:36.407Z",
+  "updatedAt": "2026-08-14T18:02:51.186Z",
   "problems": [
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "problem/0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "problem/0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0026-remove-duplicates-from-sorted-array.java",
+          "path": "problem/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
+          "sha": "e0da681d9c2b6aa9d4a630869ae00797ee17fc25",
+          "lastSyncedAt": "2026-08-14T18:02:51.186Z"
+        }
+      ]
+    },
     {
       "frontendId": "75",
       "title": "Sort Colors",
