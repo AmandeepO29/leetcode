@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-14T18:04:02.220Z",
+  "updatedAt": "2026-08-14T18:04:09.183Z",
   "problems": [
+    {
+      "frontendId": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "problemName": "0058-length-of-last-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+      "folderPath": "problem/0058-length-of-last-word/",
+      "readmePath": "problem/0058-length-of-last-word/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0058-length-of-last-word.java",
+          "path": "problem/0058-length-of-last-word/0058-length-of-last-word.java",
+          "sha": "f90e00a3925e5557fd8c375bbbfe0772ed4ab74a",
+          "lastSyncedAt": "2026-08-14T18:04:09.183Z"
+        }
+      ]
+    },
     {
       "frontendId": "899",
       "title": "Orderly Queue",
