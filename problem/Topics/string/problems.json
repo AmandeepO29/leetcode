@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-14T18:03:34.804Z",
+  "updatedAt": "2026-08-14T18:03:47.884Z",
   "problems": [
     {
       "frontendId": "899",
@@ -23,6 +23,26 @@
           "path": "problem/0899-orderly-queue/0899-orderly-queue.java",
           "sha": "4d58260b65d4f273b438c6affaefb10d129b5ace",
           "lastSyncedAt": "2026-08-14T18:03:34.804Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2042",
+      "title": "Check if Numbers Are Ascending in a Sentence",
+      "slug": "check-if-numbers-are-ascending-in-a-sentence",
+      "problemName": "2042-check-if-numbers-are-ascending-in-a-sentence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/",
+      "folderPath": "problem/2042-check-if-numbers-are-ascending-in-a-sentence/",
+      "readmePath": "problem/2042-check-if-numbers-are-ascending-in-a-sentence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2042-check-if-numbers-are-ascending-in-a-sentence.java",
+          "path": "problem/2042-check-if-numbers-are-ascending-in-a-sentence/2042-check-if-numbers-are-ascending-in-a-sentence.java",
+          "sha": "ddf9c642889ff17a3bf5ce8494679b397ef5194c",
+          "lastSyncedAt": "2026-08-14T18:03:47.884Z"
         }
       ]
     },
