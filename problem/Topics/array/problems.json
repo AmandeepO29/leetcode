@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-14T18:04:29.869Z",
+  "updatedAt": "2026-08-14T18:04:42.438Z",
   "problems": [
     {
       "frontendId": "26",
@@ -103,6 +103,26 @@
           "path": "problem/1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.java",
           "sha": "3b179dd95c7af0e09d1daf58f79f63ae6f04a61a",
           "lastSyncedAt": "2026-08-14T18:03:53.004Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1491",
+      "title": "Average Salary Excluding the Minimum and Maximum Salary",
+      "slug": "average-salary-excluding-the-minimum-and-maximum-salary",
+      "problemName": "1491-average-salary-excluding-the-minimum-and-maximum-salary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/",
+      "folderPath": "problem/1491-average-salary-excluding-the-minimum-and-maximum-salary/",
+      "readmePath": "problem/1491-average-salary-excluding-the-minimum-and-maximum-salary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1491-average-salary-excluding-the-minimum-and-maximum-salary.java",
+          "path": "problem/1491-average-salary-excluding-the-minimum-and-maximum-salary/1491-average-salary-excluding-the-minimum-and-maximum-salary.java",
+          "sha": "bb85bdfa5df0dfdfb25b834128fa5c0018e66bb8",
+          "lastSyncedAt": "2026-08-14T18:04:42.438Z"
         }
       ]
     },
