@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-21T05:22:46.085Z",
+  "updatedAt": "2026-08-21T05:22:49.950Z",
   "problems": [
     {
       "frontendId": "58",
@@ -22,7 +22,7 @@
           "filename": "0058-length-of-last-word.java",
           "path": "problem/0058-length-of-last-word/0058-length-of-last-word.java",
           "sha": "f90e00a3925e5557fd8c375bbbfe0772ed4ab74a",
-          "lastSyncedAt": "2026-08-14T18:04:09.183Z"
+          "lastSyncedAt": "2026-08-21T05:22:49.950Z"
         }
       ]
     },
