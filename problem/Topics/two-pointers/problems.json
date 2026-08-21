@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-21T05:22:02.092Z",
+  "updatedAt": "2026-08-21T05:22:57.670Z",
   "problems": [
     {
       "frontendId": "26",
@@ -82,7 +82,7 @@
           "filename": "0925-long-pressed-name.java",
           "path": "problem/0925-long-pressed-name/0925-long-pressed-name.java",
           "sha": "e036521a1e85a7e399d818a67faa01f24761bb4f",
-          "lastSyncedAt": "2026-08-14T18:07:33.477Z"
+          "lastSyncedAt": "2026-08-21T05:22:57.670Z"
         }
       ]
     }
