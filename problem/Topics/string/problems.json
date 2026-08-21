@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-21T05:22:30.079Z",
+  "updatedAt": "2026-08-21T05:22:37.758Z",
   "problems": [
     {
       "frontendId": "58",
@@ -102,7 +102,7 @@
           "filename": "2042-check-if-numbers-are-ascending-in-a-sentence.java",
           "path": "problem/2042-check-if-numbers-are-ascending-in-a-sentence/2042-check-if-numbers-are-ascending-in-a-sentence.java",
           "sha": "ddf9c642889ff17a3bf5ce8494679b397ef5194c",
-          "lastSyncedAt": "2026-08-14T18:07:13.202Z"
+          "lastSyncedAt": "2026-08-21T05:22:37.758Z"
         }
       ]
     },
