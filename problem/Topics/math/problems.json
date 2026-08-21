@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-21T05:22:51.886Z",
+  "updatedAt": "2026-08-21T05:23:17.383Z",
   "problems": [
     {
       "frontendId": "628",
@@ -142,7 +142,7 @@
           "filename": "3536-maximum-product-of-two-digits.java",
           "path": "problem/3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.java",
           "sha": "7ce3ed571923c72c26cfdb877ea6cabc0e49c346",
-          "lastSyncedAt": "2026-08-14T18:07:53.241Z"
+          "lastSyncedAt": "2026-08-21T05:23:17.383Z"
         }
       ]
     }
