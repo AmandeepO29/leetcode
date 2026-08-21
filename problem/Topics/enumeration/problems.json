@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-08-14T18:06:32.441Z",
+  "updatedAt": "2026-08-21T05:21:45.945Z",
   "problems": [
     {
       "frontendId": "3345",
@@ -22,7 +22,7 @@
           "filename": "3345-smallest-divisible-digit-product-i.java",
           "path": "problem/3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.java",
           "sha": "851dacbd16492fc31e30a4de7008aa4717e483db",
-          "lastSyncedAt": "2026-08-14T18:06:32.441Z"
+          "lastSyncedAt": "2026-08-21T05:21:45.945Z"
         }
       ]
     }
