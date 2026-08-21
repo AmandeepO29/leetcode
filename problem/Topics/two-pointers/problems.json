@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-14T18:07:40.239Z",
+  "updatedAt": "2026-08-21T05:21:51.266Z",
   "problems": [
     {
       "frontendId": "26",
@@ -42,7 +42,7 @@
           "filename": "0075-sort-colors.java",
           "path": "problem/0075-sort-colors/0075-sort-colors.java",
           "sha": "85a791118229785b5e53502f3642e2a24b1f2b57",
-          "lastSyncedAt": "2026-08-14T18:06:36.519Z"
+          "lastSyncedAt": "2026-08-21T05:21:51.266Z"
         }
       ]
     },
