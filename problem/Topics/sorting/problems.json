@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-21T05:22:51.886Z",
+  "updatedAt": "2026-08-21T05:23:03.670Z",
   "problems": [
     {
       "frontendId": "75",
@@ -62,7 +62,7 @@
           "filename": "0455-assign-cookies.java",
           "path": "problem/0455-assign-cookies/0455-assign-cookies.java",
           "sha": "c3a9684d5a3a4d820c39f765cba5e82729638ba9",
-          "lastSyncedAt": "2026-08-14T18:07:40.239Z"
+          "lastSyncedAt": "2026-08-21T05:23:03.670Z"
         }
       ]
     },
