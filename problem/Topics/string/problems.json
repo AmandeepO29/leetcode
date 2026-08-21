@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-21T05:22:49.950Z",
+  "updatedAt": "2026-08-21T05:22:57.670Z",
   "problems": [
     {
       "frontendId": "58",
@@ -62,7 +62,7 @@
           "filename": "0925-long-pressed-name.java",
           "path": "problem/0925-long-pressed-name/0925-long-pressed-name.java",
           "sha": "e036521a1e85a7e399d818a67faa01f24761bb4f",
-          "lastSyncedAt": "2026-08-14T18:04:23.348Z"
+          "lastSyncedAt": "2026-08-21T05:22:57.670Z"
         }
       ]
     },
