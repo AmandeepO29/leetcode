@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-14T18:07:21.151Z",
+  "updatedAt": "2026-08-21T05:22:09.355Z",
   "problems": [
     {
       "frontendId": "58",
@@ -122,7 +122,7 @@
           "filename": "3517-smallest-palindromic-rearrangement-i.java",
           "path": "problem/3517-smallest-palindromic-rearrangement-i/3517-smallest-palindromic-rearrangement-i.java",
           "sha": "6d4f2630afba3ca281eb4ae9035f3654f6380df9",
-          "lastSyncedAt": "2026-08-14T18:06:50.263Z"
+          "lastSyncedAt": "2026-08-21T05:22:09.355Z"
         }
       ]
     }
