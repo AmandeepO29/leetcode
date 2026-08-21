@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-21T05:23:03.670Z",
+  "updatedAt": "2026-08-21T05:23:13.473Z",
   "problems": [
     {
       "frontendId": "75",
@@ -142,7 +142,7 @@
           "filename": "1491-average-salary-excluding-the-minimum-and-maximum-salary.java",
           "path": "problem/1491-average-salary-excluding-the-minimum-and-maximum-salary/1491-average-salary-excluding-the-minimum-and-maximum-salary.java",
           "sha": "bb85bdfa5df0dfdfb25b834128fa5c0018e66bb8",
-          "lastSyncedAt": "2026-08-14T18:07:49.452Z"
+          "lastSyncedAt": "2026-08-21T05:23:13.473Z"
         }
       ]
     },
