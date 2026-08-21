@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-21T05:22:23.474Z",
+  "updatedAt": "2026-08-21T05:22:30.079Z",
   "problems": [
     {
       "frontendId": "628",
@@ -42,7 +42,7 @@
           "filename": "0899-orderly-queue.java",
           "path": "problem/0899-orderly-queue/0899-orderly-queue.java",
           "sha": "4d58260b65d4f273b438c6affaefb10d129b5ace",
-          "lastSyncedAt": "2026-08-14T18:07:06.955Z"
+          "lastSyncedAt": "2026-08-21T05:22:30.079Z"
         }
       ]
     },
